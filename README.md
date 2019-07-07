@@ -1,5 +1,5 @@
-# DROOM
-The work to be done by Rahul Mahto in DROOM project under Tinkering lab UIET.
+# LEARNING ROS
+The work to be done by Rahul Mahto in DROOM project under rOBOTICS LAB lab UIET.
 My task is to learn the basics of ROS and learn to simulate Turtlebot2 and navigate it from one point to other. The Timeline for my project is as follows:
 
 1. Till July 6: I will learn basics of ROS and Turtlebot 2.
